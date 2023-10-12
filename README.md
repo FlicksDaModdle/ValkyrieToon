@@ -5,7 +5,7 @@
 
 <br>
 <p align="center">
-    <a href="https://github.com/festivities/Blender-StellarToon"><img src="https://github.com/festivities/Blender-StellarToon/assets/77230051/2970493b-ec52-4ec0-890e-1eeef6598b70" alt="StellarToon"/></a>
+    <a href="https://github.com/FlicksDaModdle/ValkyrieToon"><img src="https://github.com/FlicksDaModdle/ValkyrieToon/blob/e7d3f825e077eb6e9697d5bb089d820cf4e2a0a7/ValkyrieToon.png" alt="ValkyrieToon"/></a>
 </p><br>
 
 <p align="center">
