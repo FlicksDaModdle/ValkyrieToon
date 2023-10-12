@@ -1,4 +1,10 @@
+# This shader is only for [Goo Engine](https://www.dillongoostudios.com/gooengine), a fork of Blender dedicated to rendering NPR and 3D anime.
 
+---
+
+## Trailer
+
+[![Trailer](https://img.youtube.com/vi/cJED47rHhe8/maxresdefault.jpg)](https://youtu.be/cJED47rHhe8)
 
 <br>
 <p align="center">
