@@ -18,9 +18,8 @@
 ---
 
 ## Contact / Issues
-- [Discord server](https://discord.gg/85rP9SpAkF)
-- [Twitter](https://twitter.com/festivizing)
-- Either contact me or [create an issue](https://github.com/festivities/Blender-StellarToon/issues/new/choose) for any problems that may arise.
+- Message Me on Festivity's Server, I'm flixdamoddler [Discord server](https://discord.gg/85rP9SpAkF)
+- Either contact me or [create an issue](https://github.com/FlicksDaModdle/ValkyrieToon/issues/new/choose) for any problems that may arise.
 - Please don't bother me for assets.
 
 ## Rules
@@ -30,16 +29,15 @@
 - In compliance with the license, you are free to redistribute the files as long as you attach a link to the source repository.
 
 ## Contributing
-If you're actually sane enough to traverse through my nodes and improve the shader OR you don't mind helping out in scripting and automating the process of using Star Rail models, feel free to create a pull request! I'll do my best to get to it as soon as possible ^^
+If you want to assist and make a setup wizard(more setup than fest's shaders bc thats how the game is), pls do ^^)
 
 ## Special thanks
 All of this wouldn't be possible if it weren't for:
-- [HoYoverse](https://www.hoyoverse.com/)
+- [Chips](https://www.hoyoverse.com/)
 - [DillonGoo Studios](https://www.dillongoostudios.com/)
 - [Manashiku](https://github.com/Manashiku/)
 - [Razmoth](https://github.com/Razmoth/)
-- [radioegor146](https://github.com/radioegor146/)
-- [Mero](https://github.com/GrownNed/)
+- [Festivity](https://github.com/festivities)
 - [Isaac](https://twitter.com/Just_ScaasI/)
 - [Bonny](https://www.youtube.com/@BonnyAnimations/)
 
@@ -47,6 +45,3 @@ All of this wouldn't be possible if it weren't for:
 This shader isn't meant to be 100% accurate - what I only aim for is to replicate the in-game looks to the best of my ability. Some calculations are exactly how the game does things, some are my own thrown into the mix.
 
 While the shader is developed primarily for datamined assets, this repository does not endorse datamining in any way whatsoever and will never directly provide the assets nor tools in extracting from game files.
-
-## Since you've read this far...
-Using this shader is completely **free** if it's not already evident from the license BUT - if and only if you have something to spare and would like to support me, then you can do so on my Ko-fi [here](https://ko-fi.com/festivity/). I appreciate every tip and each one motivates me to keep on improving the shader.
