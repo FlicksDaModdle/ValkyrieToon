@@ -1,6 +1,4 @@
-# This shader is only for [Goo Engine](https://www.dillongoostudios.com/gooengine), a fork of Blender dedicated to rendering NPR and 3D anime.
 
----
 
 
 <br>
@@ -34,7 +32,6 @@ If you want to assist and make a setup wizard(more setup than fest's shaders bc 
 ## Special thanks
 All of this wouldn't be possible if it weren't for:
 - [Chips](https://github.com/Elysia-simp)
-- [DillonGoo Studios](https://www.dillongoostudios.com/)
 - [Manashiku](https://github.com/Manashiku/)
 - [Razmoth](https://github.com/Razmoth/)
 - [Festivity](https://github.com/festivities)
