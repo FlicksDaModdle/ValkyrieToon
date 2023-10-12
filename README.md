@@ -5,7 +5,7 @@
 
 <br>
 <p align="center">
-    <a href="https://github.com/FlicksDaModdle/ValkyrieToon"><img src="https://github.com/FlicksDaModdle/ValkyrieToon/blob/e7d3f825e077eb6e9697d5bb089d820cf4e2a0a7/ValkyrieToon.png" alt="ValkyrieToon"/></a>
+    <a href="https://github.com/FlicksDaModdle/ValkyrieToon"><img src="https://github.com/FlicksDaModdle/ValkyrieToon/blob/f8a33ec01bb45a1ace9d90f9dc2b9bf08624ee94/ValkyrieToon.png" alt="ValkyrieToon"/></a>
 </p><br>
 
 <p align="center">
