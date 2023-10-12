@@ -4,7 +4,7 @@
 
 ## Trailer
 
-[![Trailer](https://img.youtube.com/vi/cJED47rHhe8/maxresdefault.jpg)](https://youtu.be/cJED47rHhe8)
+
 
 <br>
 <p align="center">
