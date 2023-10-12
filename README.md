@@ -1,14 +1,11 @@
 # This shader is only for [Goo Engine](https://www.dillongoostudios.com/gooengine), a fork of Blender dedicated to rendering NPR and 3D anime.
 
-
-
-
-
+---
 
 
 <br>
 <p align="center">
-    <a href="[https://github.com/festivities/Blender-StellarToon](https://github.com/FlicksDaModdle/ValkyrieToon/tree/main)"><img src="[https://github.com/FlicksDaModdle/ValkyrieToon/blob/main/ValkyrieToon.png?raw=true](https://github.com/FlicksDaModdle/ValkyrieToon/blob/main/ValkyrieToon.png?raw=true)" alt="ValkyrieToon"/></a>
+    <a href="https://github.com/festivities/Blender-StellarToon"><img src="https://github.com/festivities/Blender-StellarToon/assets/77230051/2970493b-ec52-4ec0-890e-1eeef6598b70" alt="StellarToon"/></a>
 </p><br>
 
 <p align="center">
