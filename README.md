@@ -8,7 +8,7 @@
 
 <br>
 <p align="center">
-    <a href="https://github.com/festivities/Blender-StellarToon"><img src="https://github.com/festivities/Blender-StellarToon/assets/77230051/2970493b-ec52-4ec0-890e-1eeef6598b70" alt="StellarToon"/></a>
+    <a href="[https://github.com/festivities/Blender-StellarToon](https://github.com/FlicksDaModdle/ValkyrieToon/tree/main)"><img src="[https://github.com/FlicksDaModdle/ValkyrieToon/blob/main/ValkyrieToon.png?raw=true](https://github.com/FlicksDaModdle/ValkyrieToon/blob/main/ValkyrieToon.png?raw=true)" alt="ValkyrieToon"/></a>
 </p><br>
 
 <p align="center">
