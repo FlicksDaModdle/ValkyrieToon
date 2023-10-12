@@ -21,7 +21,7 @@
 - Please don't bother me for assets.
 
 ## Rules
-- The [GPL-3.0 License](https://github.com/FlicksDaModdle/ValkyrieToon/blob/309ee6c97dfe6a2f5a849bba76c7a1eed3a6d306/LICENS) applies.
+- The [GPL-3.0 License](https://github.com/FlicksDaModdle/ValkyrieToon/blob/309ee6c97dfe6a2f5a849bba76c7a1eed3a6d306/LICENSE) applies.
 - If you use this shader in renders, animations or any form of medium that does not directly modify the shader, I'd appreciate being credited - **you don't have to do it though.**
 - If you use this shader as one of the references for your own shader, please give credit where it's due.
 - In compliance with the license, you are free to redistribute the files as long as you attach a link to the source repository.
