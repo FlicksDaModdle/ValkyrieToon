@@ -1,6 +1,6 @@
 # This shader is only for [Goo Engine](https://www.dillongoostudios.com/gooengine), a fork of Blender dedicated to rendering NPR and 3D anime.
 
----
+
 
 #
 
