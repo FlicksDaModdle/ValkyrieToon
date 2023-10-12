@@ -33,7 +33,7 @@ If you want to assist and make a setup wizard(more setup than fest's shaders bc 
 
 ## Special thanks
 All of this wouldn't be possible if it weren't for:
-- [Chips](https://www.hoyoverse.com/)
+- [Chips](https://github.com/Elysia-simp)
 - [DillonGoo Studios](https://www.dillongoostudios.com/)
 - [Manashiku](https://github.com/Manashiku/)
 - [Razmoth](https://github.com/Razmoth/)
