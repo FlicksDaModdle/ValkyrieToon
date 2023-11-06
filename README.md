@@ -13,7 +13,7 @@
 </p>
 
 ---
-
+## NEW GENSHIN SHADER LIGHT SYSTEM YOINKED AND PLOPPED INTO HERE, THANKS TO THE PPL OVER THERE FOR GREAT WORK.
 ## Contact / Issues
 - Message Me on Festivity's Server, I'm flixdamoddler [Discord server](https://discord.gg/85rP9SpAkF)
 - Either contact me or [create an issue](https://github.com/FlicksDaModdle/ValkyrieToon/issues/new/choose) for any problems that may arise.
